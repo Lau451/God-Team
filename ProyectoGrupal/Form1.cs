@@ -10,12 +10,16 @@ using System.Windows.Forms;
 
 namespace ProyectoGrupal
 {
-    public partial class Form1 : Form
+    public partial class lblError : Form
     {
-        public Form1()
+        public lblError()
         {
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
