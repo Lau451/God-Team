@@ -1,0 +1,15 @@
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.exe
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.deps.json
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.runtimeconfig.json
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.runtimeconfig.dev.json
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.dll
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\bin\Debug\netcoreapp3.1\ProyectoGrupal.pdb
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.csproj.GenerateResource.cache
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.AssemblyInfoInputs.cache
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.AssemblyInfo.cs
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.dll
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.pdb
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.genruntimeconfig.cache
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.Form1.resources
+D:\Visual Studio\Proyectos\II AÑO\God-Team-Proyect\ProyectoGrupal\obj\Debug\netcoreapp3.1\ProyectoGrupal.csprojAssemblyReference.cache
